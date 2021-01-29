@@ -20,5 +20,5 @@ var config = {
     //          2.T不能丢了
     date: "2020-12-25T00:00:00",
     // 双方的名字
-    names: ["Martin蠢蠢豬","Joyce懶懶豬"]
+    names: ["Martin蠢蠢豬", "Joyce懶懶豬"]
 }
